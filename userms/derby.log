@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Nov 07 15:58:51 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0184-51a2-c034-000000c395e0 
+on database directory memory:D:\Project Wipro\movieReviewApp\userms\7bfe67d4-92bf-4fdb-898f-b8010f91a961 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@659e0bfd 
+Loaded from file:/C:/Users/somna/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.2+8-LTS-86
+user.dir=D:\Project Wipro\movieReviewApp\userms
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
